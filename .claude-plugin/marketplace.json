@@ -1,7 +1,7 @@
 {
-  "name": "dev-marketplace",
+  "name": "steel-marketplace",
   "owner": {
-    "name": "Steel Developer"
+    "name": "Steel.dev"
   },
   "plugins": [
     {
