@@ -1,0 +1,13 @@
+{
+  "name": "dev-marketplace",
+  "owner": {
+    "name": "Steel Developer"
+  },
+  "plugins": [
+    {
+      "name": "steel-forge",
+      "source": "./steel-forge",
+      "description": "Steel browser automation assistant for AI coding agents - create, debug, and optimize Steel projects"
+    }
+  ]
+}
